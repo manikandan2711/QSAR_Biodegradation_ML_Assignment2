@@ -1,0 +1,17 @@
+FINAL SUBMISSION CHECKLIST
+==========================
+[ ] Run the project on BITS Virtual Lab.
+[ ] Capture ONE screenshot proving execution on BITS Virtual Lab.
+[ ] Push the complete project to YOUR GitHub repository.
+[ ] Replace YOUR_GITHUB_REPOSITORY_URL in README.md.
+[ ] Deploy app.py using Streamlit Community Cloud.
+[ ] Test test_data.csv with all five model selections.
+[ ] Replace YOUR_STREAMLIT_APP_URL in README.md.
+[ ] Create one final PDF containing, in order:
+    1. GitHub Repository Link
+    2. Live Streamlit App Link
+    3. BITS Virtual Lab execution screenshot
+    4. README content
+[ ] Confirm GitHub and Streamlit links are clickable.
+[ ] Customize wording/UI where appropriate and understand the implementation before submission.
+[ ] Submit the final PDF before the assignment deadline.
